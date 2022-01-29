@@ -1,10 +1,11 @@
 # Hello there, I'm Mahmoud Alim 👋
 
----
+
 <p align="center">
-<img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" data-canonical-src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="400" height="400"  alt="MahmoudAlimLogo"/>
+<img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" data-canonical-src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="280" height="280"  alt="MahmoudAlimLogo"/>
 </p>
 
+<br/>
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/mhmoud_alim)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mhmoud-alim)
@@ -12,22 +13,25 @@
 [![MailL](https://img.shields.io/static/v1?color=red&label=Gmail%20&logo=twitter&logoColor=white&style=for-the-badge&message=ReachME)](mailto:mahmoudhusseinalim@gmail.com)
 
 ---
+- ## About me :
 
 ### **I'm a mobile software engineer, I love Java, Kotlin, and Android. I'm a technology enthusiast.**
-
-
-### About me : 
 
 - :star2: Software Engineer by day, sports enthusiast by night. and occasionally a graphic designer.
 - 🔭 I’m currently working as an Android Engineer at [Shift inc.](https://shiftinc.com/)
 - 🌱 I’m currently volunteering as an Organizer and a Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
 - :yum:	 I’m currently learning Modularization, Design patterns
 - 💬 Ask me about Android and Jetpack compose and computer Hardware.
-- ⚡ Fun fact: I like fishing and travel the world on my bike. :innocent: 
+- ⚡ Fun fact: I like fishing and travel the world on my bike. :innocent:
+
+
 
 <br/>
 
 ---
+- ## Projects :
+
+<br/>
 
 - ### Open Source projects
 
@@ -37,7 +41,7 @@
 
 <br/>
 
-- ### Android sample Apps 
+   - ### Android sample Apps
 
 |       **Repo**                                                             |    **Language**          |                                   **Description**                                                                              |
 | -------------------------------------------------------------------------- | -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +50,7 @@
 |   [Calculator Challenge](https://github.com/MhmoudAlim/CalculatorChallenge)|    **Kotlin**            | This project is part of an Android Technical calculator challenge for a job interview.
 |   [Farida 2](https://github.com/MhmoudAlim/Farida2)                        |    **Kotlin**            | This project is a kids educational app for kids with hearing problems.
 |   [Spotify Clone](https://github.com/MhmoudAlim/Spotify-Clone)             |     **Kotlin**           | A **WIP** Music player APP streaming Music form a cloud provider.
-|   [Homey App](https://github.com/MhmoudAlim/Homey-App)                     |     **Java**             | Homey is a sample app with an online shopping Store for a specific home ceilings and appliance for modern house finishing. 
+|   [Homey App](https://github.com/MhmoudAlim/Homey-App)                     |     **Java**             | Homey is a sample app with an online shopping Store for a specific home ceilings and appliance for modern house finishing.
 |   [Homey Admin App](https://github.com/MhmoudAlim/Homey-AdminApp)          |     **Java**             | A sample Dashboard Admin app for [Homey App](https://github.com/MhmoudAlim/Homey-App)
 |   [Receiver App](https://github.com/MhmoudAlim/Receiver-App)               |     **Java**             | A demo App as part of a technical task, contains of 3 related apps communicating together (Emitter-Middleman-Receiver).
 |   [MiddleMan App](https://github.com/MhmoudAlim/MiddleMan-App)             |     **Java**             | A demo App as part of a technical task, contains of 3 related apps communicating together (Emitter-Middleman-Receiver).
@@ -63,16 +67,15 @@
 |   [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                                     |    **Java**         | This Repo is a studying and practicing GOF design patterns.
 |   [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                                |    **Java/Kotlin**  | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.
 
-
-
-
 <hr/>
 <a href="https://github.com/MhmoudAlim/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MhmoudAlim&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MhmoudAlim&count_private=true&show_icons=show&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/MhmoudAlim/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudAlim&layout=compact&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudAlim&layout=compact&theme=radical&hide_border=true" />
 </a>
+
+
 
 ---
 
