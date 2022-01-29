@@ -1,18 +1,19 @@
 # Hello there, I'm Mahmoud Alim 👋
 
 ---
-[![](https://github.com/MhmoudAlim/Compose-Ratingbar-library/blob/master/blob/logo/MHLogo.png)]
+<p align="center">
+<img src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" data-canonical-src="https://github.com/MhmoudAlim/MhmoudAlim/blob/master/blob/MHLogo.png" width="400" height="400"  alt="MahmoudAlimLogo"/>
+</p>
 
-<br/>
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/mhmoud_alim)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mhmoud-alim)
 [![SoundCloud URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Soundcloud&logoColor=white&style=for-the-badge&message=:musical_note:)](https://www.facebook.com/sha.ka.165)
 [![MailL](https://img.shields.io/static/v1?color=red&label=Gmail%20&logo=twitter&logoColor=white&style=for-the-badge&message=ReachME)](href:<mahmoudhusseinalim@gmail.com>)
 
-<br/>
+---
 
-###**I'm a junior mobile software engineer, I love Kotlin, and Android. I'm a technology enthusiast.**
+### **I'm a junior mobile software engineer, I love Kotlin, and Android. I'm a technology enthusiast.**
 
 
 ### About me : 
@@ -72,5 +73,9 @@
 <a href="https://github.com/MhmoudAlim/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudAlim&layout=compact&theme=radical&hide_border=false" />
 </a>
+
+---
+
+### It was nice meeting you :revolving_hearts: what about a follow and let's connect! :raised_hands: 
 
 
