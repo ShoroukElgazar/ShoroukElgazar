@@ -7,26 +7,25 @@
 
 <br/>
 
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/mhmoud_alim)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mhmoud-alim)
-[![SoundCloud URL](https://img.shields.io/static/v1?color=red&label=Soundcloud&logo=Soundcloud&logoColor=white&style=for-the-badge&message=Follow)](https://soundcloud.com/mahmoud-hussein-7)
-[![MailL](https://img.shields.io/static/v1?color=red&label=Gmail%20&logo=twitter&logoColor=white&style=for-the-badge&message=ReachME)](mailto:mahmoudhusseinalim@gmail.com)
+[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=flat&message=Follow)](https://twitter.com/mhmoud_alim)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=flat&message=Connect)](https://www.linkedin.com/in/mhmoud-alim)
+[![SoundCloud URL](https://img.shields.io/static/v1?color=blue&label=Soundcloud&logo=Soundcloud&logoColor=white&style=flat&message=Follow)](https://soundcloud.com/mahmoud-hussein-7)
+[![MailL](https://img.shields.io/static/v1?color=blue&label=Gmail%20&logo=gmail&logoColor=white&style=flat&message=ReachME)](mailto:mahmoudhusseinalim@gmail.com)
 
 ---
 - ## About me :
 
 ### **I'm a mobile software engineer, I love Java, Kotlin, and Android. I'm a technology enthusiast.**
 
-- :star2: Software Engineer by day, sports enthusiast by night. and occasionally a graphic designer.
-- 🔭 I’m currently working as an Android Engineer at [Shift inc.](https://shiftinc.com/)
-- 🌱 I’m currently volunteering as an Organizer and a Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
-- :yum:	 I’m currently learning Modularization, Design patterns
-- 💬 Ask me about Android and Jetpack compose and computer Hardware.
-- ⚡ Fun fact: I like fishing and travel the world on my bike. :innocent:
+- :star2: Software Engineer by day, sports enthusiast by night. occasionally a graphic designer.
+- 🔭 Android Software Engineer at [Shift inc.](https://shiftinc.com/)
+- 🌱 Organizer and a Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
+- :yum:	 I’m currently learning Modularization and Design patterns.
+- 💬 Ask me about Android, Jetpack compose and computer Hardware.
+- ⚡ Fun fact: I like fishing and traveling around the world on my bike. :innocent:
 
 
 
-<br/>
 
 ---
 - ## Projects :
@@ -69,10 +68,10 @@
 
 <hr/>
 <a href="https://github.com/MhmoudAlim/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MhmoudAlim&count_private=true&show_icons=show&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MhmoudAlim&count_private=true&show_icons=show&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/MhmoudAlim/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudAlim&layout=compact&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudAlim&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 
