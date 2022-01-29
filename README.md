@@ -8,8 +8,8 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/mhmoud_alim)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mhmoud-alim)
-[![SoundCloud URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Soundcloud&logoColor=white&style=for-the-badge&message=:musical_note:)](https://www.facebook.com/sha.ka.165)
-[![MailL](https://img.shields.io/static/v1?color=red&label=Gmail%20&logo=twitter&logoColor=white&style=for-the-badge&message=ReachME)](href:<mahmoudhusseinalim@gmail.com>)
+[![SoundCloud URL](https://img.shields.io/static/v1?color=red&label=Soundcloud&logo=Soundcloud&logoColor=white&style=for-the-badge&message=Follow)](https://soundcloud.com/mahmoud-hussein-7)
+[![MailL](https://img.shields.io/static/v1?color=red&label=Gmail%20&logo=twitter&logoColor=white&style=for-the-badge&message=ReachME)](mailto:mahmoudhusseinalim@gmail.com)
 
 ---
 
@@ -19,11 +19,11 @@
 ### About me : 
 
 - :star2: Software Engineer by day, sports enthusiast by night. and occasionally a graphic designer.
-- 🔭 I’m currently an Android Engineer at [Shift inc.](https://shiftinc.com/)
+- 🔭 I’m currently working as an Android Engineer at [Shift inc.](https://shiftinc.com/)
 - 🌱 I’m currently volunteering as an Organizer and a Graphic Designer at a Google Developers Group [GDG Helwan](https://gdg.community.dev/gdg-helwan/)
 - :yum:	 I’m currently learning Modularization, Design patterns
-- 💬 Ask me about Android and Jetpack compose.
-- ⚡ Fun fact: I am a computer Hardware geek. :flushed:
+- 💬 Ask me about Android and Jetpack compose and computer Hardware.
+- ⚡ Fun fact: I like fishing and travel the world on my bike. :innocent: 
 
 <br/>
 
