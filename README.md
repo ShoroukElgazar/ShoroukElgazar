@@ -13,7 +13,7 @@
 
 ---
 
-### **I'm a junior mobile software engineer, I love Kotlin, and Android. I'm a technology enthusiast.**
+### **I'm a mobile software engineer, I love Java, Kotlin, and Android. I'm a technology enthusiast.**
 
 
 ### About me : 
