@@ -44,7 +44,8 @@
 
 |       **Repo**                                                             |    **Language**          |                                   **Description**                                                                              |
 | -------------------------------------------------------------------------- | -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
-|   [News App](https://github.com/MhmoudAlim/NewsApp)                        |     **Kotlin**           | A project to fetch breaking news, Latest COVID 19 news and searching for news topic or keyword and saving a user FAV news locally in a database.                         |
+|   [Compose Poc](https://github.com/MhmoudAlim/ComposePocTask)              |     **Kotlin**           | This project is a Clean Architecture , which is a proof-of-concept Jetpack compose UI to load Food delivery service app Home screen UI parsed from a local static local file.    
+|   [News App](https://github.com/MhmoudAlim/NewsApp)                        |     **Kotlin**           | A project to fetch breaking news, Latest COVID 19 news and searching for news topic or keyword and saving a user FAV news locally in a database. 
 |   [Pics App](https://github.com/MhmoudAlim/PicsApp)                        |     **Kotlin**           | A pics search App project to fetch photos from Unsplash , search photos and browse users profiles and photos.
 |   [Calculator Challenge](https://github.com/MhmoudAlim/CalculatorChallenge)|    **Kotlin**            | This project is part of an Android Technical calculator challenge for a job interview.
 |   [Farida 2](https://github.com/MhmoudAlim/Farida2)                        |    **Kotlin**            | This project is a kids educational app for kids with hearing problems.
