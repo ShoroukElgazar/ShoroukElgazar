@@ -45,6 +45,7 @@
 
 |       **Repo**                                                             |    **Language**          |                                   **Description**                                                                              |
 | -------------------------------------------------------------------------- | -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
+|   [Currency](https://github.com/MhmoudAlim/Currency)                       |     **Kotlin**           | A Clean Architecture proof-of-concept Android app designed to help customers to handle different currency conversions.
 |   [Compose Poc](https://github.com/MhmoudAlim/ComposePocTask)              |     **Kotlin**           | A Clean Architecture proof-of-concept Jetpack compose UI to load Food delivery service app Home screen UI parsed from a Json local file.    
 |   [News App](https://github.com/MhmoudAlim/NewsApp)                        |     **Kotlin**           | A project to fetch breaking news, Latest COVID 19 news and searching for news topic or keyword and saving a user FAV news locally in a database. 
 |   [Pics App](https://github.com/MhmoudAlim/PicsApp)                        |     **Kotlin**           | A pics search App project to fetch photos from Unsplash , search photos and browse users profiles and photos.
