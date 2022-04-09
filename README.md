@@ -69,10 +69,7 @@
 |   [Design patterns](https://github.com/MhmoudAlim/DesignPatterns)                                     |    **Java**         | This Repo is a studying and practicing GOF design patterns.
 |   [Coding Challenges](https://github.com/MhmoudAlim/Coding-challanges)                                |    **Java/Kotlin**  | This Repo contains of some data structure and algorithms coding problems i solve on Leetcode.
 
-<hr/>
-<a href="https://github.com/MhmoudAlim/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MhmoudAlim&count_private=true&show_icons=show&theme=tokyonight&hide_border=true" />
-</a>
+
 <a href="https://github.com/MhmoudAlim/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudAlim&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
