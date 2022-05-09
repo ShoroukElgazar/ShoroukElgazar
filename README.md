@@ -5,7 +5,6 @@
 
 <p align="center">
 
-[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=flat&message=Follow)](https://twitter.com/mhmoud_alim)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=flat&message=Connect)](https://linkedin.com/in/shorouk-Elgazar)
 [![MailL](https://img.shields.io/static/v1?color=blue&label=Gmail%20&logo=gmail&logoColor=white&style=flat&message=ReachME)](mailto:shorouk.mohamed93@gmail.com)
 
