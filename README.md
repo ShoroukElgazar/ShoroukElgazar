@@ -36,18 +36,17 @@
 
    - ### Android sample Apps
 
-|       **Repo**                                                             |    **Language**          |                                   **Description**                                                                              |
-| -------------------------------------------------------------------------- | -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
-|   [Shift inc.]( https://apps.apple.com/us/app/shift-inc/id136413753)                       |     **Swift**           | Automated Car Rental where with a few simple steps, you can choose your car, pay your bill and pick up your vehicle. The app opens the door, gives you the keys, lets you assess the vehicle for damage and sends you on your way.
-|   [EZURU](https://apps.apple.com/eg/app/ezuru/id1538338412)              |     **Swift**           | E-Commerce firm that manages an online real estate, hospitality & leisure marketplace for renting short, medium and long term properties and venues.    
-|   [AQARK]( https://apps.apple.com/us/app/aqark-app/id153136636)                        |     **Swift**           | An application facilitates finding the appropriate property. 
-|   [Popular Movies App](https://github.com/Shorouk278/MovieDB-iOS-Swift-.git)                        |     **Swift**           | An application allows users to discover, view, favorite, and rate movies.
-|   [Tripista]( https://play.google.com/store/apps/details?id=com.iti.intake40.tripista)|     **Java**           |An application allows The user to record his planned trips with the start and end Geo-points and remind him of the time specified
-|   [COVID-19 Tracker ](https://github.com/Shorouk278/COVID-19-Tracker.git)                        |     **Kotlin**           | An application that displays real-time data about the cases of COVID-19, also user can subscribe on one country and get notifications regarding any data changes.
-|   [Collaborative TODO List]( https://github.com/Shorouk278/TODO-List-Server-Java-.git)
-(https://github.com/Shorouk278/TODO-List-Client-Java-.git) 
-      |     **Java**           | **Java Desktop Application** A client-server desktop application, which allows the user to record his To-Do items in Lists and share them with his friends and trace the items status and statistics graphs.
-|  
+| **Repo**                                                                                       |    **Language**          |                                   **Description**                                                                              |
+|------------------------------------------------------------------------------------------------| -----------------------  | -------------------------------------------------------------------------------------------------------------------------------|
+| [Shift inc.]( https://apps.apple.com/us/app/shift-inc/id136413753)                             |     **Swift**           | Automated Car Rental where with a few simple steps, you can choose your car, pay your bill and pick up your vehicle. The app opens the door, gives you the keys, lets you assess the vehicle for damage and sends you on your way.
+| [EZURU](https://apps.apple.com/eg/app/ezuru/id1538338412)                                      |     **Swift**           | E-Commerce firm that manages an online real estate, hospitality & leisure marketplace for renting short, medium and long term properties and venues.    
+| [AQARK]( https://apps.apple.com/us/app/aqark-app/id153136636)                                  |     **Swift**           | An application facilitates finding the appropriate property. 
+| [Popular Movies App](https://github.com/Shorouk278/MovieDB-iOS-Swift-.git)                     |     **Swift**           | An application allows users to discover, view, favorite, and rate movies.
+| [Tripista]( https://play.google.com/store/apps/details?id=com.iti.intake40.tripista)           |     **Java**           |An application allows The user to record his planned trips with the start and end Geo-points and remind him of the time specified
+| [COVID-19 Tracker ](https://github.com/Shorouk278/COVID-19-Tracker.git)                        |     **Kotlin**           | An application that displays real-time data about the cases of COVID-19, also user can subscribe on one country and get notifications regarding any data changes.
+| [Collaborative TODO List](https://github.com/Shorouk278/TODO-List-Client-Java-.git) (Client)  |     **Java**           | **Java Desktop Application** A client-server desktop application, which allows the user to record his To-Do items in Lists and share them with his friends and trace the items status and statistics graphs.
+| [Collaborative TODO List]( https://github.com/Shorouk278/TODO-List-Server-Java-.git)  (Server) |     **Java**           | **Java Desktop Application** A client-server desktop application, which allows the user to record his To-Do items in Lists and share them with his friends and trace the items status and statistics graphs.
+
 
 <br/>
 
