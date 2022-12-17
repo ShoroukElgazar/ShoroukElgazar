@@ -16,7 +16,7 @@
 
 ### **I'm a mobile software engineer, I love Swift and iOS. I'm a technology enthusiast.**
 
-- iOS Software Engineer at [Shift inc.](https://shiftinc.com/)
+- iOS Software Engineer at [Coral Technology](http://www.coral.io)
 - Contributor at [OpenBytes](https://github.com/Open-Bytes)
 
 
